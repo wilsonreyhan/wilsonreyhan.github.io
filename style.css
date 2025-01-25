@@ -2,11 +2,11 @@ table,
 tr,
 th,
 td {
-  border: 3px solid balck;
+  border: 3px solid black;
   border-collapse: collapse;
 }
 
 table {
   width: 60%;
-  align-self: center;
+  margin: 0px auto;
 }
